@@ -1,0 +1,8 @@
+{
+  "name": "mailchimp-downloader",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.2",
+    "playwright": "^1.42.0"
+  }
+}
